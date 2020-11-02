@@ -2,6 +2,10 @@
 
 A repository designed to help students at Unviersity of Southampton setup their Node D3 environment on their COMP6234 module.
 
+## Features
+- Lightweight ready to use environment
+- Has live/hot reload (reloads everytime you change files in 'd3_files' folder)
+
 ## Set Up
 
 1. Install node:
